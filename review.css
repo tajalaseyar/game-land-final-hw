@@ -1,0 +1,16 @@
+body {
+    background-color:black;
+
+}
+ul {
+    color: white;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+footer{
+    color: white;
+    background-color: #141e30;
+    text-align: center;
+}
